@@ -27,9 +27,7 @@ function exibirOpcoes(){
 
     for (var atributo in cartaJogador.atributos){
         console.log(atributo);
-    }   
-    
-
+    }
 };
 
 
